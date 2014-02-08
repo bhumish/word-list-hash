@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: wordlisthash
+Version: 1.0.0
+Summary: A handy tool for creating hashes out of given passwords as string or file.
+Home-page: http://bhumishgajjar.wordpress.com
+Author: Bhumish Gajjar
+Author-email: bhumish.gajjar@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: md5 hash
+Platform: UNKNOWN
